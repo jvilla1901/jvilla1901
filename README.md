@@ -9,7 +9,8 @@
   - In this lab, I am going to show you how to create an off-premises IT Lab with AWS or Amazon Web Services. I am also going to show you how to create and configure an EC2 instance which is just a Virtual Machine, configure port rules so that we can connect to our Cloud VM, and how to terminate our EC2 instances and our off-premises lab.
 
 ## Help Desk projects:
-- Coming soon!
+- **[Host Your Own Help Desk!](https://github.com/jvilla1901/hostingYourOwnHelpDesk/blob/main/README.md)**
+  - In this lab, I'll show how to self-host your own help desk using ticketing software that ensures all support requests are submitted through an official system.
 
 ## Cyber Security projects:
 - Coming soon! 
